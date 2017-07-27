@@ -50,6 +50,13 @@ Inside this directory paste the `.ase` files. Now the swatches appear as *user d
 
 Inside this directory replace the `Adobe Illustrator Prefs` file.
 
+### Sketch
+```
+/Users/user_name/Library/Application Support/com.bohemiancoding.sketch3
+```
+
+Replace all the contents inside the `com.bohemiancoding.sketch3`.
+
 ---
 
 `user_name` = the account name on your mac.
